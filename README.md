@@ -28,7 +28,7 @@ Here are some of my notable open source contributions:
 
 ## Stats
 
-![Bacc's GitHub stats](https://github-readme-stats.vercel.app/api?username=pularbacc&show_icons=true&count_private=true&theme=dark)
+![Bacc's GitHub stats](https://github-readme-stats.vercel.app/api?username=pularbacc&show_icons=true&count_private=true)
 
 ## Get in Touch
 
