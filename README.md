@@ -15,7 +15,7 @@ I'm a passionate developer with experience in several programming languages and 
 - Programming languages: HTML, CSS, JavaScript, TypeScript, C, Bash, Python
 - Frameworks and libraries: Vue, Nuxt, Angular, Electron, NodeJs
 - Databases: MySql, Mariadb, Mongodb
-- Tools and technologies: vscode, vim, linux, cli, git, npm
+- Tools and technologies: Vscode, Vim, Linux, CLI, Git, Npm
 
 <!--
 ## Open Source Contributions
