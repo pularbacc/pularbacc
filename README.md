@@ -28,7 +28,7 @@ Here are some of my notable open source contributions:
 
 ## Stats
 
-![Top Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pularbacc&langs_count=10)
+![Langs Used](https://github-readme-stats.vercel.app/api/top-langs/?username=pularbacc&langs_count=10&count_private=true)
 ![Bacc's GitHub stats](https://github-readme-stats.vercel.app/api?username=pularbacc&show_icons=true&count_private=true)
 
 ## Get in Touch
